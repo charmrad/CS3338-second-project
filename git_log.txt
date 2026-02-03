@@ -1,0 +1,44 @@
+commit 082752cc46ef87ad7228fd99e7c11fe2882c4be3
+Author: saralaraza <saractorr@gmail.com>
+Date:   Tue Feb 3 14:09:43 2026 -0800
+
+    Added favorite movie div
+
+commit 4c7ed2cc816c88df7e0e221256aed14070baccf8
+Author: saralaraza <saractorr@gmail.com>
+Date:   Tue Feb 3 14:07:21 2026 -0800
+
+    Add favorite food div
+
+commit 766606eabbc0c026845be683fccde1cc1e9cd3a8
+Author: saralaraza <saractorr@gmail.com>
+Date:   Tue Feb 3 14:09:43 2026 -0800
+
+    Added favorite movie div
+
+commit 95c030515839982b7db9ad499656046a9501b5f9
+Author: Sara Torres <storre181@calstatela.edu>
+Date:   Tue Feb 3 13:49:23 2026 -0800
+
+    Create README.md
+
+commit 1c4ed8c280707d1fd199b9d9fa94f9bc8a3fd94d
+Merge: 1d2bfc0 aef1b85
+Author: Sara Torres <storre181@calstatela.edu>
+Date:   Tue Feb 3 13:40:39 2026 -0800
+
+    Merge pull request #1 from charmrad/info-fill
+    
+    Filled in the blanks in index.html
+
+commit aef1b85f7f4979968854c9feedc39b23cc02e8b2
+Author: saralaraza <saractorr@gmail.com>
+Date:   Tue Feb 3 13:22:43 2026 -0800
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
